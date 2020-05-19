@@ -18,5 +18,6 @@ Underline
  - Sub Item
 2. Number Item 2
 
-
 > This is a quote
+
+> This is a core component
